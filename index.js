@@ -1,0 +1,1 @@
+"use strict";(()=>{window.Webflow||(window.Webflow=[]);window.Webflow.push(()=>{$(".mobile-platforms-menu-item").on("mouseenter",function(e){$(this).triggerHandler("click"),e.preventDefault()})});})();
